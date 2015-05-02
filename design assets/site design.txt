@@ -1,0 +1,29 @@
+What is my site supposed to actually do?
+
+	The site is there to give my information to any visitors, both my professional portfolio
+	and contact information, as well as my social network contact information and how anyone 
+	can get in touch with me, professionally and socially.
+
+Who is this site for?
+
+	This site is for anyone that wants to know more about me and wants to see my
+	my portfolio for web design. This will be people and businesses that are looking to hire
+	me in the future.
+	
+Who is my target audience?
+
+	My target audience is my professor, of course, as well as people that may want to contact
+	me for future employment and opportunities. 
+	
+How will I achieve the target goal of my site?
+
+	I'll use a clean, simple design to quickly get my message across, and to give people
+	my professional information. 
+	
+Other stuff
+
+	I'll stick to a simple color scheme, no more than 3 colors. Mainly black and white with 
+	a small dash of other colors to highlight things and contrast visually. I'll use simple 
+	fonts with nothing crazy, I'm thinking Helvetica or Calibri, but definitely a sans-serif
+	font. I'll use a menu bar, probably at the top of the page, to handle navigation and to
+	let the reader move between sections of my site.
